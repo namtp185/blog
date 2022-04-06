@@ -1,3 +1,6 @@
+Title: Tiêu đề bài viết
+Date: 2022-06-04
+
 Testing, testing.
 
 Lần đầu viết blog.
